@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "quantity": 5,
+      "price": 50000
+    },
+    {
+      "id": "2",
+      "name": "Phone",
+      "quantity": 10,
+      "price": 25000
+    },
+    {
+      "id": "3",
+      "name": "Tablet",
+      "quantity": 8,
+      "price": 30000
+    },
+    {
+      "id": "A723QMv0g3",
+      "name": "iphone 13",
+      "quantity": "1",
+      "price": "55000"
+    }
+  ]
+}
